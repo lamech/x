@@ -6,7 +6,7 @@ x
 > host of practices that are just plain useful."
 >   -- David Bayles and Ted Orland, [Art & Fear](http://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733)
 
-I find myself working differently with music than I used to. Especially these
+I find myself working differently with music than I [used to](http://boywithmachine.net/music/old). Especially these
 days when time seems to feel so fragmented, much of my musical activity (both
 music-making and music-listening) is interstitial -- I'm drawn to things I can
 listen to and even write in between other things, in a semi-distracted state.
