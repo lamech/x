@@ -15,3 +15,9 @@ go before "interrupting" the phasor gives a nice stuttery feeling. I can imagine
 *Side note:* I haven't generated an mp3 for this because I don't feel it's a finished
 "piece"; it's more of an exercise to hear if I've controlled something the way
 I want to.
+
+- - -
+
+Copyright (c) 2009 Dan Friedman
+
+[Main](http://x.boywithmachine.net)|[RSS](http://feeds.delicious.com/v2/rss/lamech/x)|[Twitter](http://twitter.com/lamech)|[Elsewhere](http://boywithmachine.net/music)
