@@ -25,14 +25,19 @@ with this tool that I don't see other people doing. Keeping it all organized
 (and forcing myself to write about it) will hopefully be helpful to me, and
 who knows, maybe to others, too.
 
+** How It Works **
+
+I will push dated folders of stuff, usually with some thoughts and some code; when
+I have pieces I think are worth listening to, I'll post links to mp3's. I'll also post bookmarks to [delicous](http://delicious.com/lamech/x); to follow along, subscribe to [this RSS feed](http://feeds.delicious.com/v2/rss/lamech/x). Simple!
+
 ** Notes **
 
 - I make plenty of [other music](http://boywithmachine.net/music), too.
 
 - Big thanks to [Phillip "hiffy" Mendonca-Vieira](http://github.com/phillmv)
   for pointing me to Reg Braithwaite's
-[Homoiconic](http://github.com/raganwald/homoiconic/) blog as an example of a
-way to use github to technically realize this kind of code publication.
+[Homoiconic](http://github.com/raganwald/homoiconic/), and big thanks to Reg for
+coming up with a great way to use github for this kind of code publication.
 
 - For info on how you can use the mp3's of music I'll be linking to here, see the [license page](http://boywithmachine.net/music/license.html).
 
