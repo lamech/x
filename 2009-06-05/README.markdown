@@ -21,7 +21,7 @@ Here are 3 runs of the instrument I particularly liked:
 
 * [terse 5](http://boywithmachine.net/music/mp3/x/terses/terse5.mp3)
 
-* [terse 6](http://boywithmachine.net/music/mp3/x/terses/terse6.mp3)  
+* [terse 6](http://boywithmachine.net/music/mp3/x/terses/terse6.mp3)
 
 - - -
 
