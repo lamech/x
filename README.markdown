@@ -37,7 +37,7 @@ I have pieces I think are worth listening to, I'll post links to mp3's. I'll als
 - Big thanks to [Phillip "hiffy" Mendonca-Vieira](http://github.com/phillmv)
   for pointing me to Reg Braithwaite's
 [Homoiconic](http://github.com/raganwald/homoiconic/), and big thanks to Reg for
-coming up with a great way to use github for this kind of code publication.
+building such a fine example of using github for this kind of code publication.
 
 - For info on how you can use the mp3's of music I'll be linking to here, see the [license page](http://boywithmachine.net/music/license.html).
 
