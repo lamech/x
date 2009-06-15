@@ -17,4 +17,4 @@ the signal, [producing](http://github.com/lamech/x/blob/master/2009-06-10/bruts.
 
 Copyright (c) 2009 Dan Friedman
 
-[[Main]](http://x.boywithmachine.net) | [[RSS]](http://feeds.delicious.com/v2/rss/lamech/x) | [[Twitter]](http://twitter.com/lamech) | [Elsewhere](http://boywithmachine.net/music)
+[[Main]](http://x.boywithmachine.net) [[RSS]](http://feeds.delicious.com/v2/rss/lamech/x) [[Twitter]](http://twitter.com/lamech) [[Elsewhere]](http://boywithmachine.net/music)
