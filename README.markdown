@@ -21,7 +21,7 @@ Why fight it?
 This is a place for me to collect little tidbits, ideas, fragments, maybe even
 finished pieces. I'm figuring out how to use the materials as I go. Obviously I
 want to make my own music, and that involves figuring out how to do some stuff
-with this tool that I don't see other people doing. Keeping it all organized
+with csound that I don't see other people doing. Keeping it all organized
 (and forcing myself to write about it) will hopefully be helpful to me, and
 who knows, maybe to others, too.
 
