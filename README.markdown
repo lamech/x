@@ -34,7 +34,7 @@ who knows, maybe to others, too.
 [Homoiconic](http://github.com/raganwald/homoiconic/) blog as an example of a
 way to use github to technically realize this kind of code publication.
 
-- For info on how you can use the mp3's of music I'll be linking to here, see the [license page](http://boywithmachine.net/music/license.txt).
+- For info on how you can use the mp3's of music I'll be linking to here, see the [license page](http://boywithmachine.net/music/license.html).
 
 - You can also find me on [http://twitter.com/lamech]Twitter
 
