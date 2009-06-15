@@ -6,7 +6,7 @@ previous two pieces: instead of changing the length and speed of the phasor'd
 portion of the original waveform, what if I want to keep those the same but
 "stutter" the phasor; not always allowing it to finish a complete cycle, but
 instead interrupting it and sending it back to the beginning? I discovered the
-[syncphasor](http://www.csounds.com/manual/html/syncphasor.html) opcode [lets me do that](syncphasor.csd).
+[syncphasor](http://www.csounds.com/manual/html/syncphasor.html) opcode [lets me do that](http://github.com/lamech/x/blob/master/2009-06-15/syncphasor.csd).
 
 Using [mpulse](http://www.csounds.com/manual/html/mpulse.html) and
 [random](http://www.csounds.com/manual/html/random.html) to decide how long to

@@ -13,7 +13,7 @@ This is tough, because I'm still trying to figure out how to do the things I
 find myself doing (which is one of my motivations for putting this blog
 together).
 
-Working with the ideas in chapter IV of Jacob Joaquin's [Exploring Analogue Synth Techniques](http://www.thumbuki.com/csound/articles/east/), I've put [this little instrument](terses.csd) together; it randomly plays with 3 different wave shapes (a sine, a cosine, and a "percussive" attack/decay shape) to produce little noise pieces.
+Working with the ideas in chapter IV of Jacob Joaquin's [Exploring Analogue Synth Techniques](http://www.thumbuki.com/csound/articles/east/), I've put [this little instrument](http://github.com/lamech/x/blob/master/2009-06-05/terses.csd) together; it randomly plays with 3 different wave shapes (a sine, a cosine, and a "percussive" attack/decay shape) to produce little noise pieces.
 
 Here are 3 runs of the instrument I particularly liked:
 
