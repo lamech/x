@@ -26,4 +26,4 @@ Here are 3 runs of the instrument I particularly liked:
 
 Copyright (c) 2009 Dan Friedman
 
-[Main](http://x.boywithmachine.net)|[RSS](http://feeds.delicious.com/v2/rss/lamech/x)|[Twitter](http://twitter.com/lamech)|[Elsewhere](http://boywithmachine.net/music)
+[[Main]](http://x.boywithmachine.net) | [[RSS]](http://feeds.delicious.com/v2/rss/lamech/x) | [[Twitter]](http://twitter.com/lamech) | [Elsewhere](http://boywithmachine.net/music)
