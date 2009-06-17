@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Set up a new dated directory, and copy some useful templates thereinto,
+# using piece name given in $piece:
+
+today=`(set \`date +%F\`; echo $1)`
+templates=scripts/templates
+
+echo "Creating directory $today..."
+
+if [ -d ${today} ]
+then
+    echo "$today already exists; abort."
+    exit 1
+fi
+
+mkdir ${today}
+
+echo "Copying templates into $today for piece '$piece'..."
+
+cp ${templates}/template.csd ${today}/${piece}.csd
+sed -e"s/PIECE/${piece}/g" ${templates}/template.makefile > ${today}/Makefile
+cp ${templates}/template.readme ${today}/README.markdown
+
+echo "Done."

@@ -18,5 +18,13 @@ Working with the ideas in chapter IV of Jacob Joaquin's [Exploring Analogue Synt
 Here are 3 runs of the instrument I particularly liked:
 
 * [terse 4](http://boywithmachine.net/music/mp3/x/terses/terse4.mp3)
+
 * [terse 5](http://boywithmachine.net/music/mp3/x/terses/terse5.mp3)
+
 * [terse 6](http://boywithmachine.net/music/mp3/x/terses/terse6.mp3)
+
+- - -
+
+Copyright (c) 2009 Dan Friedman
+
+[[Main]](http://x.boywithmachine.net) [[RSS]](http://feeds.delicious.com/v2/rss/lamech/x) [[Twitter]](http://twitter.com/lamech) [[Elsewhere]](http://boywithmachine.net/music)
