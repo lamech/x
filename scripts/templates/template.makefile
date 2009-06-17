@@ -22,11 +22,13 @@ cycle:
 	done
 
 help:
+	@echo
 	@echo "'make' (or 'make cycle') = compile/render/play $(piece).$(source) every 2 seconds"
 	@echo "'make orc' = compile/render/play $(piece).orc/sco"
 	@echo "'make csd' = compile/render/play $(piece).csd"
-	@echo "'make clean' = delete previously-generated wav file
+	@echo "'make clean' = delete previously-generated wav file"
 	@echo "'make play' = play generated wav file with $(player)"
+	@echo
 
 orc: clean .wavfromorc play
 
