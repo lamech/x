@@ -31,9 +31,9 @@ it) will hopefully be helpful to me, and who knows, maybe to others, too.
 
 - when I have pieces I think are worth listening to, I'll post links to mp3's; 
 
-- I'll also post bookmarks to [delicous](http://delicious.com/lamech/x); 
+- then, I'll also post bookmarks to [delicous](http://delicious.com/lamech/x); 
 
-- to follow along, subscribe to [this RSS feed](http://feeds.delicious.com/v2/rss/lamech/x)--simple!
+- so: to follow along, you can subscribe to [this RSS feed](http://feeds.delicious.com/v2/rss/lamech/x)--simple!
 
 ** Other Notes **
 
